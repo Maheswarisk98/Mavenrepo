@@ -4,11 +4,11 @@ package com.hcl.MavenDemo;
  * Hello world!
  *
  */
-public class App1
+public class App
 {
-    public static void m1()
+    public static void main(String args[])
     {
 
-        System.out.println( "m1 World!" );
+        System.out.println( "Hello World!" );
     }
 }
